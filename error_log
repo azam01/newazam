@@ -1,0 +1,552 @@
+[15-Jan-2024 16:12:09 UTC] PHP Fatal error:  Cannot redeclare addData() (previously declared in /home/buypods/public_html/cims/cron_media_v2.php:36) in /home/buypods/public_html/cims/_inc/_functions.php on line 152
+[15-Jan-2024 16:13:43 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 16:13:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 16:17:03 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 10
+[15-Jan-2024 16:17:03 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 28
+[15-Jan-2024 16:17:03 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 16:17:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 16:19:04 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 10
+[15-Jan-2024 16:19:04 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 28
+[15-Jan-2024 16:19:04 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 16:19:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 16:23:12 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 10
+[15-Jan-2024 16:23:12 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 28
+[15-Jan-2024 16:23:12 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 16:23:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 16:23:49 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 3
+[15-Jan-2024 16:24:32 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 3
+[15-Jan-2024 16:28:53 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 3
+[15-Jan-2024 16:29:53 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 3
+[15-Jan-2024 16:35:06 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 10
+[15-Jan-2024 16:35:06 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 28
+[15-Jan-2024 16:35:06 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 16:35:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 16:35:39 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:36:11 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:36:12 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:36:13 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:36:14 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:36:24 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:36:48 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:37:31 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 5
+[15-Jan-2024 16:37:31 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:38:10 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 5
+[15-Jan-2024 16:38:10 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:38:11 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 5
+[15-Jan-2024 16:38:11 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:38:11 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 5
+[15-Jan-2024 16:38:11 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:38:12 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 5
+[15-Jan-2024 16:38:12 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:44:46 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/cron_media_v2.php on line 5
+[15-Jan-2024 16:47:21 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 10
+[15-Jan-2024 16:47:21 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 28
+[15-Jan-2024 16:47:47 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 10
+[15-Jan-2024 16:47:47 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/buypods/public_html/cims/_inc/_config.php on line 28
+[15-Jan-2024 16:50:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 7
+[15-Jan-2024 16:50:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 7
+[15-Jan-2024 16:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 9
+[15-Jan-2024 16:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 9
+[15-Jan-2024 16:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:52:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:54:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:54:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:55:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 6
+[15-Jan-2024 16:57:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 5
+[15-Jan-2024 16:58:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 5
+[15-Jan-2024 17:01:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 7
+[15-Jan-2024 17:01:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 7
+[15-Jan-2024 17:01:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 7
+[15-Jan-2024 17:12:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 8
+[15-Jan-2024 17:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 8
+[15-Jan-2024 17:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 8
+[15-Jan-2024 17:17:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 8
+[15-Jan-2024 17:17:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 8
+[15-Jan-2024 17:17:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 8
+[15-Jan-2024 17:18:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 8
+[15-Jan-2024 17:18:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 8
+[15-Jan-2024 17:18:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/buypods/public_html/cims/cron_media_v2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/cron_media_v2.php on line 8
+[15-Jan-2024 17:19:15 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 17:19:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 17:21:21 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 17:21:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 17:40:44 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 17:40:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 17:50:36 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[15-Jan-2024 17:50:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functions.php on line 3
+[16-Jan-2024 04:47:18 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:47:18 UTC] PHP Warning:  require_once(https://buypods.com/cims/_inc/login-authenticate.php): failed to open stream: no suitable wrapper could be found in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:47:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://buypods.com/cims/_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:47:21 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:47:21 UTC] PHP Warning:  require_once(https://buypods.com/cims/_inc/login-authenticate.php): failed to open stream: no suitable wrapper could be found in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:47:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://buypods.com/cims/_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:48:02 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:48:02 UTC] PHP Warning:  require_once(https://buypods.com/cims/_inc/login-authenticate.php): failed to open stream: no suitable wrapper could be found in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:48:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://buypods.com/cims/_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:48:03 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:48:03 UTC] PHP Warning:  require_once(https://buypods.com/cims/_inc/login-authenticate.php): failed to open stream: no suitable wrapper could be found in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:48:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://buypods.com/cims/_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:48:05 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:48:05 UTC] PHP Warning:  require_once(https://buypods.com/cims/_inc/login-authenticate.php): failed to open stream: no suitable wrapper could be found in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:48:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://buypods.com/cims/_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:48:54 UTC] PHP Warning:  require_once(/cims//lib/Auth.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/login-authenticate.php on line 2
+[16-Jan-2024 04:48:54 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//lib/Auth.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/login-authenticate.php on line 2
+[16-Jan-2024 04:48:55 UTC] PHP Warning:  require_once(/cims//lib/Auth.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/login-authenticate.php on line 2
+[16-Jan-2024 04:48:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//lib/Auth.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/login-authenticate.php on line 2
+[16-Jan-2024 04:48:56 UTC] PHP Warning:  require_once(/cims//lib/Auth.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/login-authenticate.php on line 2
+[16-Jan-2024 04:48:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//lib/Auth.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/login-authenticate.php on line 2
+[16-Jan-2024 04:49:01 UTC] PHP Warning:  require_once(/cims//lib/Auth.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/login-authenticate.php on line 2
+[16-Jan-2024 04:49:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//lib/Auth.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/login-authenticate.php on line 2
+[16-Jan-2024 04:52:35 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:52:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:54:21 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:54:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:55:33 UTC] PHP Warning:  require_once(/cims//_inc/login-authenticate.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[16-Jan-2024 04:55:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/cims//_inc/login-authenticate.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/_inc/_functionsv2.php on line 4
+[22-Jan-2024 08:56:31 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 08:56:31 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 08:56:31 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 08:56:31 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 08:58:05 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 08:58:05 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 08:58:05 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 08:58:05 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:05:25 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:05:25 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:05:25 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:05:25 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:05:25 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:05:25 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:20:10 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:20:10 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:20:10 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:20:10 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:20:10 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:20:10 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:21:26 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:21:27 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:22:07 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:22:07 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:22:07 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:22:07 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:25:43 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:25:43 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:25:43 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:25:43 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:25:43 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:25:43 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:27:28 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:27:28 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:27:28 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:27:29 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:27:29 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:27:29 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 129
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 130
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 147
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 148
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagewebp(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 165
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagegif() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 215
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 216
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagegif() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 233
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 234
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 251
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 251
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/buypods/public_html/cims/cron_media.php on line 251
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 252
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 252
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagecopy() expects parameter 1 to be resource, bool given in /home/buypods/public_html/cims/cron_media.php on line 252
+[22-Jan-2024 09:36:39 UTC] PHP Warning:  imagewebp() expects parameter 1 to be resource, bool given in /home/buypods/public_html/cims/cron_media.php on line 256
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 307
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 308
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 325
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 326
+[22-Jan-2024 09:36:40 UTC] PHP Warning:  imagewebp(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 343
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:36:40 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:31 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:31 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:31 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:32 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:32 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:32 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:32 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:32 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:32 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:32 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:32 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:37:32 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 307
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 308
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 325
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 326
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagewebp(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 343
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 129
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 130
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 147
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 148
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagewebp(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 165
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagegif() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 215
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 216
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagegif() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 233
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 234
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 251
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 251
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/buypods/public_html/cims/cron_media.php on line 251
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 252
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 252
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagecopy() expects parameter 1 to be resource, bool given in /home/buypods/public_html/cims/cron_media.php on line 252
+[22-Jan-2024 09:39:47 UTC] PHP Warning:  imagewebp() expects parameter 1 to be resource, bool given in /home/buypods/public_html/cims/cron_media.php on line 256
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:39:47 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:12 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:12 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:12 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:13 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:13 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:13 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:13 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:13 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:13 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:13 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:13 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:13 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:41 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:41 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:41 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:41 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:41 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:41 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:42 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:42 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:42 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:42 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:42 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:42:42 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 129
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 130
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 147
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 148
+[22-Jan-2024 09:45:08 UTC] PHP Warning:  imagewebp(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 165
+[22-Jan-2024 09:45:08 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:45:08 UTC] PHP Notice:  Undefined offset: 2 in /home/buypods/public_html/cims/views/media.php on line 232
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 307
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 308
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 325
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 326
+[22-Jan-2024 09:51:00 UTC] PHP Warning:  imagewebp(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 343
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 307
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagesx(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 41
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagesy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 42
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  Division by zero in /home/buypods/public_html/cims/cron_media.php on line 43
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be int, float given in /home/buypods/public_html/cims/cron_media.php on line 48
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 49
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagedestroy(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 55
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/buypods/public_html/cims/cron_media.php on line 325
+[22-Jan-2024 09:56:02 UTC] PHP Warning:  imagewebp(): supplied resource is not a valid Image resource in /home/buypods/public_html/cims/cron_media.php on line 343
+[30-Jan-2024 14:09:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/buypods/public_html/cims/_inc/_functions-anwar.php on line 546
+[29-Feb-2024 06:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getProduct() in /home/buypods/public_html/cims/index.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/buypods/public_html/cims/index.php on line 237
+[29-Feb-2024 06:18:59 UTC] PHP Warning:  require(/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:18:59 UTC] PHP Fatal error:  require(): Failed opening required '/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:19:13 UTC] PHP Warning:  require(/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:19:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:19:36 UTC] PHP Warning:  require(/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:19:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:19:49 UTC] PHP Warning:  require(/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:19:49 UTC] PHP Fatal error:  require(): Failed opening required '/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:19:55 UTC] PHP Warning:  require(/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:19:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:21:05 UTC] PHP Warning:  require(/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:21:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:21:25 UTC] PHP Warning:  require(/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php): failed to open stream: No such file or directory in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[29-Feb-2024 06:21:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/buypods/public_html/cims/views//loop/_product-edit-seo-setting.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/buypods/public_html/cims/views/product-edit.php on line 168
+[11-Mar-2024 06:01:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(SELECT group_concat(concat(c.id, ':', c.name) separator ',')
+            FROM c' at line 15 in /home/buypods/public_html/cims/_inc/Products.php:172
+Stack trace:
+#0 /home/buypods/public_html/cims/_inc/Products.php(172): mysqli->query('select\n        ...')
+#1 /home/buypods/public_html/cims/views/product-edit.php(7): getProductData('77791396')
+#2 /home/buypods/public_html/cims/index.php(263): require('/home/buypods/p...')
+#3 {main}
+  thrown in /home/buypods/public_html/cims/_inc/Products.php on line 172
+[11-Mar-2024 06:01:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ON p.id = cm.product_id
+            LEFT JOIN category c ON c.id = cm.category_i' at line 16 in /home/buypods/public_html/cims/_inc/Products.php:172
+Stack trace:
+#0 /home/buypods/public_html/cims/_inc/Products.php(172): mysqli->query('select\n        ...')
+#1 /home/buypods/public_html/cims/views/product-edit.php(7): getProductData('77791396')
+#2 /home/buypods/public_html/cims/index.php(263): require('/home/buypods/p...')
+#3 {main}
+  thrown in /home/buypods/public_html/cims/_inc/Products.php on line 172
+[11-Mar-2024 06:02:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ON c.id = cm.category_id
+            LEFT JOIN category_map cm ON p.id = cm.prod' at line 16 in /home/buypods/public_html/cims/_inc/Products.php:172
+Stack trace:
+#0 /home/buypods/public_html/cims/_inc/Products.php(172): mysqli->query('select\n        ...')
+#1 /home/buypods/public_html/cims/views/product-edit.php(7): getProductData('77791396')
+#2 /home/buypods/public_html/cims/index.php(263): require('/home/buypods/p...')
+#3 {main}
+  thrown in /home/buypods/public_html/cims/_inc/Products.php on line 172
+[11-Mar-2024 06:03:52 UTC] PHP Notice:  Undefined index: same_price in /home/buypods/public_html/cims/views/product-edit.php on line 38
+[11-Mar-2024 06:03:52 UTC] PHP Notice:  Undefined index: same_info in /home/buypods/public_html/cims/views/product-edit.php on line 56
+[11-Mar-2024 06:03:52 UTC] PHP Notice:  Undefined index: same_storage in /home/buypods/public_html/cims/views/product-edit.php on line 62
+[11-Mar-2024 06:03:52 UTC] PHP Notice:  Undefined index: brand_name in /home/buypods/public_html/cims/views/product-edit-main.php on line 76
+[11-Mar-2024 06:03:52 UTC] PHP Notice:  Undefined index: same_price in /home/buypods/public_html/cims/views/product-edit.php on line 127
+[11-Mar-2024 06:03:52 UTC] PHP Notice:  Undefined index: same_info in /home/buypods/public_html/cims/views/product-edit.php on line 148
+[11-Mar-2024 06:03:52 UTC] PHP Notice:  Undefined index: same_storage in /home/buypods/public_html/cims/views/product-edit.php on line 163
+[11-Mar-2024 06:03:52 UTC] PHP Notice:  Undefined index: seo_title in /home/buypods/public_html/cims/views/loop/_product-edit-seo-setting.php on line 6
+[11-Mar-2024 06:03:52 UTC] PHP Notice:  Undefined index: seo_desc in /home/buypods/public_html/cims/views/loop/_product-edit-seo-setting.php on line 14
+[11-Mar-2024 06:04:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM product p
+    
+        LEFT JOIN category_map cm ON p.id = cm.product_id
+		' at line 15 in /home/buypods/public_html/cims/_inc/Products.php:163
+Stack trace:
+#0 /home/buypods/public_html/cims/_inc/Products.php(163): mysqli->query('select\n        ...')
+#1 /home/buypods/public_html/cims/views/product-edit.php(7): getProductData('77791396')
+#2 /home/buypods/public_html/cims/index.php(263): require('/home/buypods/p...')
+#3 {main}
+  thrown in /home/buypods/public_html/cims/_inc/Products.php on line 163
+[11-Mar-2024 06:04:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pd.same_price' in 'field list' in /home/buypods/public_html/cims/_inc/Products.php:163
+Stack trace:
+#0 /home/buypods/public_html/cims/_inc/Products.php(163): mysqli->query('select\n        ...')
+#1 /home/buypods/public_html/cims/views/product-edit.php(7): getProductData('77791396')
+#2 /home/buypods/public_html/cims/index.php(263): require('/home/buypods/p...')
+#3 {main}
+  thrown in /home/buypods/public_html/cims/_inc/Products.php on line 163
+[11-Mar-2024 06:05:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u1.first_name' in 'field list' in /home/buypods/public_html/cims/_inc/Products.php:166
+Stack trace:
+#0 /home/buypods/public_html/cims/_inc/Products.php(166): mysqli->query('select\n        ...')
+#1 /home/buypods/public_html/cims/views/product-edit.php(7): getProductData('77791396')
+#2 /home/buypods/public_html/cims/index.php(263): require('/home/buypods/p...')
+#3 {main}
+  thrown in /home/buypods/public_html/cims/_inc/Products.php on line 166
+[11-Mar-2024 06:05:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pb.name' in 'field list' in /home/buypods/public_html/cims/_inc/Products.php:165
+Stack trace:
+#0 /home/buypods/public_html/cims/_inc/Products.php(165): mysqli->query('select\n        ...')
+#1 /home/buypods/public_html/cims/views/product-edit.php(7): getProductData('77791396')
+#2 /home/buypods/public_html/cims/index.php(263): require('/home/buypods/p...')
+#3 {main}
+  thrown in /home/buypods/public_html/cims/_inc/Products.php on line 165
+[11-Mar-2024 06:06:01 UTC] PHP Notice:  Undefined index: brand_name in /home/buypods/public_html/cims/views/product-edit-main.php on line 76
+[11-Mar-2024 06:06:13 UTC] PHP Notice:  Undefined index: same_price in /home/buypods/public_html/cims/views/product-edit.php on line 38
+[11-Mar-2024 06:06:13 UTC] PHP Notice:  Undefined index: same_info in /home/buypods/public_html/cims/views/product-edit.php on line 56
+[11-Mar-2024 06:06:13 UTC] PHP Notice:  Undefined index: same_storage in /home/buypods/public_html/cims/views/product-edit.php on line 62
+[11-Mar-2024 06:06:13 UTC] PHP Notice:  Undefined index: brand_name in /home/buypods/public_html/cims/views/product-edit-main.php on line 76
+[11-Mar-2024 06:06:13 UTC] PHP Notice:  Undefined index: same_price in /home/buypods/public_html/cims/views/product-edit.php on line 127
+[11-Mar-2024 06:06:13 UTC] PHP Notice:  Undefined index: same_info in /home/buypods/public_html/cims/views/product-edit.php on line 148
+[11-Mar-2024 06:06:13 UTC] PHP Notice:  Undefined index: same_storage in /home/buypods/public_html/cims/views/product-edit.php on line 163
+[11-Mar-2024 06:06:13 UTC] PHP Notice:  Undefined index: seo_title in /home/buypods/public_html/cims/views/loop/_product-edit-seo-setting.php on line 6
+[11-Mar-2024 06:06:13 UTC] PHP Notice:  Undefined index: seo_desc in /home/buypods/public_html/cims/views/loop/_product-edit-seo-setting.php on line 14
