@@ -222,7 +222,7 @@ switch ($request) {
 
 // end add new case
 
-     /*case $requestArr[0] === 'product-edit':
+     case $requestArr[0] === 'product-edit':
 
         $page_title_tag = "Add Product";
 
@@ -252,18 +252,9 @@ switch ($request) {
 
         include_footers();
 
-    break;*/
-
-  case $requestArr[0] === 'product-edit':
-        $page_title_tag = "Edit Product";
-        $page_title = "Edit Product";
-        $page_access = "product-edit";
-        $include_script = ['product-edit-ajax','select2.min', 'bootbox.all.min'];
-        include_headers();
-        require DOCUMENT_ROOT_PATH . $viewDir . 'product-edit.php';
-        include_footers();
     break;
-    
+
+
   case $requestArr[0] === 'product-categories':
 
         $page_title_tag = "Product Categories";
@@ -514,17 +505,6 @@ switch ($request) {
         $include_script = ['media-ajax'];    
         include_headers();
         require DOCUMENT_ROOT_PATH . $viewDir . 'media.php';
-        include_footers();
-    break; 
-
-     /*Manage navigation by Anwar*/
-     case $requestArr[0] === 'manage-navigation': 
-        $page_title_tag = "Manage Navigation"; 
-        $page_title = "Manage Navigation";
-        $page_access = "manage-navigation";   
-        $include_script = ['navigation-ajax'];    
-        include_headers();
-        require DOCUMENT_ROOT_PATH . $viewDir . 'navigation.php';
         include_footers();
     break; 
 
